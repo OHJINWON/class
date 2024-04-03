@@ -12,6 +12,7 @@ export default function RestGetPage(){
     //     console.log("동기", result) // 제데로된 결과 => {title : "....."}
     //     console.log(result.data.title)
     // }
+    
     const onClickSync = async () => {
         const result = await axios.get("https://koreanjson.com/posts/1")
         console.log("동기", result) // 제데로된 결과 => {title : "....."}
