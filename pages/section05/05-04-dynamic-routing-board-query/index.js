@@ -5,13 +5,13 @@ export default function StaticRoutingPage() {
     const router = useRouter()
 
     const onClickMove1 = () => {
-        router.push("/session05/05-04-dynamic-routing-board-query-moved/1")
+        router.push("/section05/05-04-dynamic-routing-board-query-moved/1")
     }
     const onClickMove2 = () => {
-        router.push("/session05/05-04-dynamic-routing-board-query-moved/2")
+        router.push("/section05/05-04-dynamic-routing-board-query-moved/2")
     }
     const onClickMove3 = () => {
-        router.push("/session05/05-04-dynamic-routing-board-query-moved/3")
+        router.push("/section05/05-04-dynamic-routing-board-query-moved/3")
     }
 
     return (
