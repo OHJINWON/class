@@ -6,7 +6,7 @@ Class 프로젝트는 Next.js를 기반으로 한 웹 애플리케이션입니�
 ## 기술 스택
 
 ## 프로젝트 구조
-![프로젝트 구조](image-1.png)
+![src 폴더](image.png)
 
 ![pages/
 ├── section02/
